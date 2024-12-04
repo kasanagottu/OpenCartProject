@@ -1,0 +1,36 @@
+21:01.15.026[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.032[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.033[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.033[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.034[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.034[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.036[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.036[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.036[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.037[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.039[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.039[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.039[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.039[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.040[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21:01.15.040[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.041[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.042[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.042[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21:01.15.042[main] %=5levels org.testng.internal.Utils- [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21:01.15.049[main] %=5levels org.testng.internal.Utils- [TestNG] Running:
+  C:\Users\02070I744\AppData\Local\Temp\testng-eclipse-438803369\testng-customsuite.xml
+
+21:01.15.067[main] %=5levels org.testng.internal.Utils- [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+21:01.18.911[main] %=5levels testCases.TC01_Registration- ****Starting TC01_Registration********
+21:01.19.003[main] %=5levels testCases.TC01_Registration- Clicked on the My Account Link
+21:01.19.538[main] %=5levels testCases.TC01_Registration- ****Clicked on the Register Link****
+21:01.19.541[main] %=5levels testCases.TC01_Registration- Providing Cusotmer details for Regitration
+21:01.21.061[main] %=5levels testCases.TC01_Registration- Validating the exepcted message
+21:01.21.091[main] %=5levels testCases.TC01_Registration- ****Finished TC01_Registration********
+21:01.21.369[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.jq.Main@325bb9a6: 45 ms
+21:01.21.370[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.FailedReporter@1d12b024: 0 ms
+21:01.21.378[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.XMLReporter@4d74c3ba: 8 ms
+21:01.21.384[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.EmailableReporter2@13047d7d: 6 ms
+21:01.21.391[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@23e44287: 6 ms
+21:01.21.392[main] %=5levels org.testng.internal.Utils- [TestNG] Time taken by org.testng.internal.ExitCodeListener@2b8d084: 0 ms
