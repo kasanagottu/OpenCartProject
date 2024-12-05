@@ -9,6 +9,7 @@ import java.util.Date;
 import java.util.List;
 
 import org.testng.ITestContext;
+import org.testng.ITestListener;
 import org.testng.ITestResult;
 import org.testng.annotations.Test;
 
@@ -20,7 +21,9 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import testBase.BaseClass;
 
-public class ExtentReportManager {
+public class ExtentReportManager2 implements ITestListener {
+	
+	
 	ExtentSparkReporter sparkReporter;  //UI of the Report
 	ExtentReports extent;  //populate common info in the report
 	ExtentTest test; //Creating the test entries  in the reprot and update the status of the methods
